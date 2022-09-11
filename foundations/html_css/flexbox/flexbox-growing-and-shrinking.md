@@ -92,6 +92,4 @@ This section contains questions for you to check your understanding of this less
 
 ### Additional Resources
 
-This section contains helpful links to related content. It isn’t required, so consider it supplemental.
-
-*  It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+*   This [freeCodeCamp](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/) article explains with gifs how each flex-grow, flex-shrink and flex-basis properties work.
